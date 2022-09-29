@@ -1,0 +1,4 @@
+[submodule "testbloggy/public"]
+	path = testbloggy/public
+	url = https://github.com/DaphiFluffi/daphifluffi.github.io.git
+	branch = main

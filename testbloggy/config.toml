@@ -1,0 +1,4 @@
+baseURL = 'https://daphifluffi.github.io/'
+languageCode = 'en-us'
+title = 'Bald eine IAESTE seite'
+theme = "gohugo-theme-ananke"
